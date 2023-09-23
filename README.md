@@ -45,8 +45,7 @@ GIF created with ...  Add GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
-
+It was challenging and fun at the same time.
 ## License
 
 Copyright [2023] [Abhishek Yadav]
